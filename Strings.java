@@ -25,3 +25,4 @@ class Sorting {
  
        printArray(arr);
    }
+//   practiced by sushant
